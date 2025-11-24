@@ -1,1 +1,1 @@
-# I'm learning git for getting job.
+# I'm learning git to get a job.
